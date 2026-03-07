@@ -11,7 +11,7 @@
 
 ## 🛠️ Areas I Work In
 
-* Hardware–software integration
+* Hardware–Software Integration
 * Electronics & Hardware Development
 * Robotics & Embedded Systems
 * RF & Signal Processing
