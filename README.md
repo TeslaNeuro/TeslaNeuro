@@ -52,3 +52,13 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+</p>
+
+<p align="center">
+  <!-- Math / Electronics / DevOps / IDEs -->
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,docker,vscode,matlab" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+</p>
