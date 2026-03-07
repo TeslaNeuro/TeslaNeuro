@@ -16,7 +16,6 @@
 * Robotics & Embedded Systems
 * RF & Signal Processing
 * Power Engineering
-* Neurotechnology & Bioengineering
 
 ## ⚡ Fun Fact
 
