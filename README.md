@@ -2,8 +2,6 @@
 
 ### Hardware & Software Innovator
 
-Engineering across **electronics, embedded systems, and software**.
-
 ## 🧠 About Me
 
 * ⚙️ Experienced in both **hardware and software development**
