@@ -39,8 +39,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- SNAKE GAME
+
 <div align="center">
   
   ![snake gif](https://github.com/TeslaNeuro/TeslaNeuro/blob/output/github-snake-dark.svg)
 
 </div>
+
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
+</picture>
