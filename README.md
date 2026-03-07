@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,bash" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bash" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
 
 <p align="center">
