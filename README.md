@@ -2,7 +2,7 @@
 
 ### Hardware & Software Innovator
 
-Engineering across **electronics, embedded systems, and software**, building technologies that bridge the physical and digital worlds.
+Engineering across **electronics, embedded systems, and software**.
 
 ## 🧠 About Me
 
