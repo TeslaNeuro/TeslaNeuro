@@ -1,25 +1,21 @@
 ## Hi there, I'm Arshia 👋
 
-### Hardware & Software Innovator
+### Engineer by Discipline, Builder by Nature
 
 ## 🧠 About Me
-
-* ⚙️ Experienced in both **hardware and software development**
-* 🔬 Conduct **R&D** for commercial technologies, services, and products
-* 👯 Collaborated on **UK & EU government-funded R&D projects**
-* 💻 Currently learning more about **applied ML, software development, and emerging technologies**
+* 🔬 R&D contributor on **UK & EU government-funded projects**
+* ⚙️ I build **hardware** and write the **software** that runs on it, end to end
+* 💻 Currently going deeper into **applied ML & emerging technologies**
 
 ## 🛠️ Areas I Work In
-
-* Hardware–Software Integration
-* Electronics & Hardware Development
-* Robotics & Embedded Systems
-* RF & Signal Processing
-* Power Engineering
+* 📟 Electronics & Hardware Development
+* 🤖 Robotics & Embedded Systems
+* 📡 RF & Signal Processing
+* ⚡ Power Engineering
+* 🔗 Hardware–Software Integration
 
 ## ⚡ Fun Fact
-
-I love **experimenting with new ideas and building things from scratch**.
+Video games sparked my hardware curiosity, Python sealed the software side, the rest is history.
 
 <!--
 **TeslaNeuro/TeslaNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
