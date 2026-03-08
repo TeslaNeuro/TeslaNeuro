@@ -5,8 +5,8 @@
 ## 🧠 About Me
 
 * ⚙️ Experienced in both **hardware and software development**
-* 🔬 Conduct **research & development (R&D)** for commercial technologies, services, and products
-* 👯 Collaborated on **UK and EU government-funded R&D projects**
+* 🔬 Conduct **R&D** for commercial technologies, services, and products
+* 👯 Collaborated on **UK & EU government-funded R&D projects**
 * 💻 Currently learning more about **applied ML, software development, and emerging technologies**
 
 ## 🛠️ Areas I Work In
