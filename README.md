@@ -42,12 +42,14 @@ Here are some ideas to get you started:
 
 -->
 
+<!-- Pac Man Game -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
 </picture>
 
+<!-- Skills Section -->
 <p align="center">
   <!-- Core Languages -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bash" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
