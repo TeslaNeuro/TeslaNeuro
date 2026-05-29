@@ -1,6 +1,6 @@
 ## Hi there, I'm Arshia 👋
 
-### Engineer by Discipline, Builder by Nature
+### Engineer by Discipline, Creative by Nature
 
 ## 🧠 About Me
 * 🔬 R&D contributor on **UK & EU government-funded projects**
