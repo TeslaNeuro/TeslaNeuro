@@ -59,7 +59,3 @@ Here are some ideas to get you started:
   <!-- Math / Electronics / DevOps / IDEs -->
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,docker,vscode,matlab" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
-
-<p align="center">
-    <img src="assets/gifs/pink_pet_cafune.gif" alt="Ghost being petted" height="80">
-</p>
