@@ -61,6 +61,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    These ghosts work hard! Leave a cuddle before you leave.<br>
     <img src="assets/gifs/pink_pet_cafune.gif" alt="Ghost being petted" height="80">
 </p>
