@@ -15,7 +15,7 @@
 * 🔗 Hardware–Software Integration
 
 ## ⚡ Fun Fact
-What started as a fascination with video games evolved into a passion for HW, SW, and building technology from the ground up.
+I was into gaming long before engineering, it naturally led me to learn how computers work.
 
 <!--
 **TeslaNeuro/TeslaNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
