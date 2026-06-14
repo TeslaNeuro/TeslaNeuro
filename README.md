@@ -15,7 +15,7 @@
 * 🔗 Hardware–Software Integration
 
 ## ⚡ Fun Fact
-Video games sparked my hardware curiosity, Python sealed the software side, the rest is history.
+What started as a fascination with video games evolved into a passion for hardware, software, and building technology from the ground up.
 
 <!--
 **TeslaNeuro/TeslaNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
