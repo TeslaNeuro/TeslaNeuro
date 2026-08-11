@@ -3,7 +3,7 @@
 ### Engineer by Discipline, Creative by Nature
 
 ## 🧠 About Me
-* 🔬 R&D contributor on **UK & EU government-funded innovation projects**
+* 🔬 **R&D** with a focus on **commercialisation** and **human-centred design**
 * ⚙️ I build **hardware** and write the **software** that runs on it, end-to-end
 * 💻 Currently leveraging **applied ML & emerging technologies** in practice
 
@@ -15,7 +15,7 @@
 * 🔗 Hardware–Software Integration
 
 ## ⚡ Fun Fact
-I was into gaming long before engineering, it naturally led me to learn how computers work
+I got into gaming long before engineering, which naturally led me to learn how computers work.
 
 <!--
 **TeslaNeuro/TeslaNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
