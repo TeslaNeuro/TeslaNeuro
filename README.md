@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 <!-- Skills Section -->
 <p align="center">
   <!-- Core Languages -->
-  <img height="48" src="https://skillicons.dev/icons?i=c,cpp,python,typescript,html,css,bash,git,docker,vscode,matlab&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,html,css,bash,git,docker,vscode,matlab" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
 
 <p align="center">
   <!-- Math / Electronics / DevOps / IDEs -->
-  <img height="48" src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux&perline=3" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
   <!-- STM32 / ARM / ESP / KiCad -->
-  <img height="48" src="https://simpleskill.icons.workers.dev/svg?i=adafruit,espressif,stmicroelectronics,nxp,arm,kicad,claude,cursor&perline=8" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=adafruit,espressif,stmicroelectronics,nxp,arm,kicad,claude,cursor" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
