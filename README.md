@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 <!-- Skills Section -->
 <p align="center">
   <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,html,css,bash,git,docker,vscode" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,html,css,bash,git,docker,vscode,matlab" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
 
 <p align="center">
   <!-- Math / Electronics / DevOps / IDEs -->
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,matlab" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
   <!-- STM32 / ARM / ESP / KiCad -->
-  <img src="https://simpleskill.icons.workers.dev/svg?i=stmicroelectronics,espressif,arm,adafruit,kicad,claude,cursor" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=adafruit,espressif,stmicroelectronics,nxp,arm,kicad,claude,cursor" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
