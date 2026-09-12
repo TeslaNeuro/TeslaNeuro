@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <!-- Electronics / STM32 / ARM / ESP / KiCad / IDEs -->
-  <img src="https://simpleskill.icons.workers.dev/svg?i=claudecode,cursor,kicad,LTspice,NodeRED,labview,PlatformIO,adafruit,espressif,nordicsemiconductor,stmicroelectronics,nxp,arm" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=claudecode,cursor,notion,kicad,LTspice,NodeRED,PlatformIO,adafruit,espressif,nordicsemiconductor,stmicroelectronics,nxp,arm" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
