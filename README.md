@@ -2,20 +2,16 @@
 
 ### Engineer by Discipline, Creative by Nature
 
-## 🧠 About Me
-* 🔬 **R&D** with a focus on **commercialisation** and **human-centred design**
-* ⚙️ I build **hardware** and write the **software** that runs on it, end-to-end
-* 💻 Currently leveraging **applied ML & emerging technologies** in practice
+I build hardware, software, and intelligent systems, from electronics and embedded systems to applied ML.
 
-## 🛠️ Areas I Work In
-* 📟 Electronics & Hardware Development
-* 🤖 Robotics & Embedded Systems
-* 📡 RF & Signal Processing
-* ⚡ Power Engineering
-* 🔗 Hardware–Software Integration
+🔗 **[Portfolio & Links](https://linktr.ee/ArshiaKeshvari)**
+
+## 🛠️ I Work With
+
+🔌 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
 
 ## ⚡ Fun Fact
-I got into gaming long before engineering, which naturally led me to learn how computers work.
+I got into gaming long before engineering, which eventually led me to learn how computers actually work.
 
 <!--
 **TeslaNeuro/TeslaNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
