@@ -8,7 +8,7 @@ I build hardware, software, and intelligent systems, from electronics and embedd
 
 ## 🛠️ I Work With
 
-🔌 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
+📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
 
 ## ⚡ Fun Fact
 I got into gaming long before engineering, which eventually led me to learn how computers actually work.
