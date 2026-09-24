@@ -2,7 +2,7 @@
 
 ### Engineer by Discipline, Creative by Nature
 
-I build hardware, software, and intelligent systems, from electronics and embedded systems to applied ML.
+I develop commercial hardware, software, and intelligent systems, from electronics and embedded systems to applied ML.
 
 🔗 **[Small Portfolio & Links](https://linktr.ee/ArshiaKeshvari)**
 
