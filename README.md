@@ -4,7 +4,7 @@
 
 I build hardware, software, and intelligent systems, from electronics and embedded systems to applied ML.
 
-🔗 **[Portfolio & Links](https://linktr.ee/ArshiaKeshvari)**
+🔗 **[Small Portfolio & Links](https://linktr.ee/ArshiaKeshvari)**
 
 ## 🛠️ I Work With
 
