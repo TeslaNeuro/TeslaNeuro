@@ -11,8 +11,7 @@ I develop commercial hardware, software, and intelligent systems, from electroni
 📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
 
 ## ⚡ Fun Fact
-I got into gaming long before engineering, which eventually led me to learn how computers actually work.
-
+I started by chasing ghosts. Now I chase electrons.
 <!--
 **TeslaNeuro/TeslaNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
