@@ -4,28 +4,14 @@
 
 I develop commercial hardware, software, and intelligent systems, from electronics and embedded systems to applied ML.
 
-🔗 **[Small Portfolio & Links](https://linktr.ee/ArshiaKeshvari)**
+📫 **[Small Portfolio & How to Reach Me](https://linktr.ee/ArshiaKeshvari)**
 
-## 🛠️ I Work With
+## 🛠️ I Typically Work With
 
 📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
 
 ## ⚡ Fun Fact
-I started by chasing ghosts. Now I chase electrons.
-<!--
-**TeslaNeuro/TeslaNeuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started by chasing ghosts. Now I chase electrons and photons.
 
 <!-- SNAKE GAME
 
