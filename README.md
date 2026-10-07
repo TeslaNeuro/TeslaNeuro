@@ -38,5 +38,17 @@ I started by chasing ghosts. Now I chase electrons and photons.
 
 <p align="center">
   <!-- Electronics / STM32 / ARM / ESP / KiCad / IDEs -->
-  <img src="https://simpleskill.icons.workers.dev/svg?i=claudecode,cursor,notion,kicad,LTspice,NodeRED,PlatformIO,adafruit,espressif,nordicsemiconductor,stmicroelectronics,nxp,arm" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
+  <img src="https://cdn.simpleicons.org/claudecode/FF7F00" alt="Claude Code" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/kicad/314CB6" alt="KiCad" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/nodered/8F0000" alt="Node-RED" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/platformio/FF7F00" alt="PlatformIO" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/adafruit/000000" alt="Adafruit" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/nordicsemiconductor/00A9CE" alt="Nordic Semiconductor" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" alt="STMicroelectronics" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/nxp/84BD00" alt="NXP" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://cdn.simpleicons.org/arm/0091BD" alt="Arm" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
 </p>
+
