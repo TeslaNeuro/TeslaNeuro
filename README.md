@@ -41,6 +41,7 @@ I started by chasing ghosts. Now I chase electrons and photons.
   <img src="https://cdn.simpleicons.org/claudecode/FF7F00" alt="Claude Code" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/altium.png" alt="Altium Designer" width="45" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/kicad/314CB6" alt="KiCad" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/nodered/8F0000" alt="Node-RED" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/platformio/FF7F00" alt="PlatformIO" width="48" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
