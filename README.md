@@ -49,7 +49,7 @@ I started by chasing ghosts. Now I chase electrons and photons.
   <img src="https://cdn.simpleicons.org/espressif/E7352C" alt="Espressif" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/particle.png" alt="ParticleIO" width="45" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" alt="STMicroelectronics" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
-  <img src="https://cdn.simpleicons.org/nxp/84BD00" alt="NXP" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
+  <img src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/philips.svg" alt="Philips" width="35" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/arm/0091BD" alt="Arm" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
 </p>
 
