@@ -6,12 +6,25 @@ I develop commercial hardware, software, and intelligent systems, from electroni
 
 📫 **[Small Portfolio & How to Reach Me](https://linktr.ee/ArshiaKeshvari)**
 
-## 🛠️ I Typically Work With
+## 🛠️ I Enjoy Working On
 
 📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
 
-## ⚡ Fun Fact
-I started by chasing ghosts. Now I chase electrons and photons.
+## <!>
+
+<p align="Center">
+  <img
+    src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/hmm.jpg"
+    width="250"  />
+  <img
+    src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/kauai.jpg"
+    width="353"
+  />
+  <img
+    src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/zzz.jpeg"
+    width="280"
+  />
+</p>
 
 <!-- SNAKE GAME
 
@@ -23,21 +36,29 @@ I started by chasing ghosts. Now I chase electrons and photons.
 
 -->
 
-<!-- Pac Man Game -->
+<!-- Pac Man Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/pacman/pacman-contribution-graph.svg">
 </picture>
 
+-->
+
 <!-- Skills Section -->
+
+<!-- Core Languages / DevOps / IDEs / Math / Electronics 
+
 <p align="center">
-  <!-- Core Languages / DevOps / IDEs / Math / Electronics  -->
   <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,html,css,bash,docker,vscode,matlab,arduino,raspberrypi,linux,apple" style="margin:10px; border-radius:12px; background:#f0f0f0; padding:8px;" />
 </p>
 
+-->
+
+<!-- Electronics / STM32 / ARM / ESP / KiCad / IDEs
+
 <p align="center">
-  <!-- Electronics / STM32 / ARM / ESP / KiCad / IDEs -->
   <img src="https://cdn.simpleicons.org/claudecode/FF7F00" alt="Claude Code" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/cursor/000000" alt="Cursor" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
   <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
@@ -53,3 +74,4 @@ I started by chasing ghosts. Now I chase electrons and photons.
   <img src="https://cdn.simpleicons.org/arm/0091BD" alt="Arm" width="47" style="margin:4px; border-radius:7px; background:#f0f0f0; padding:5px;" />
 </p>
 
+-->
