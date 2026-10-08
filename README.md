@@ -15,14 +15,14 @@ I develop commercial hardware, software, and intelligent systems, from electroni
 <p align="Center">
   <img
     src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/hmm.jpg"
-    width="250"  />
+    width="230"  />
   <img
     src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/kauai.jpg"
-    width="353"
+    width="325"
   />
   <img
     src="https://raw.githubusercontent.com/TeslaNeuro/TeslaNeuro/main/assets/pics/zzz.jpeg"
-    width="280"
+    width="259"
   />
 </p>
 
