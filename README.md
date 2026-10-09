@@ -11,7 +11,7 @@ I develop commercial hardware, software, and intelligent systems, from electroni
 
 📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
 
-## <!>
+## 🪩
 
 <p align="Center">
   <img
