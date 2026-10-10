@@ -7,9 +7,13 @@ I develop commercial hardware, software, and intelligent systems, from electroni
 
 📫 **[Small Portfolio & How to Reach Me](https://linktr.ee/ArshiaKeshvari)**
 
+<!--
+
 ## 🛠️ I Enjoy Working On
 
 📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
+
+-->
 
 ## 🪩
 
