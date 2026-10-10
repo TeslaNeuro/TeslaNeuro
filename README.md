@@ -1,9 +1,6 @@
 ## Hi there, I'm Arshia 👋
 
-<!--
-### Engineer by Discipline, Creative by Nature
--->
-I develop commercial hardware, software, and intelligent systems, from electronics and embedded systems to applied ML.
+I develop commercial hardware, software, and intelligent systems, from electronics and embedded systems to applied AI.
 
 📫 **[Small Portfolio & How to Reach Me](https://linktr.ee/ArshiaKeshvari)**
 
@@ -11,7 +8,7 @@ I develop commercial hardware, software, and intelligent systems, from electroni
 
 ## 🛠️ I Enjoy Working On
 
-📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied ML
+📟 Electronics · ⚙️ Embedded · 🤖 Robotics · 📡 RF · 💻 Software · 🧠 Applied AI
 
 -->
 
